@@ -35,12 +35,12 @@
 
 > **참고**: GitHub 통계는 본인의 모든 public 레포지토리 기여를 포함합니다.  
 > - ✅ 본인이 만든 레포지토리
+> - ✅ 다른 사람의 레포지토리에 기여한 커밋 (PR 머지, 직접 커밋)
 > - ✅ Fork한 레포지토리 (본인 계정으로 커밋한 경우)
-> - ✅ 다른 사람의 레포지토리에 기여한 커밋
-> - ❌ Organization 레포지토리 (기본적으로 제외)
-> - ❌ Private 레포지토리 (기본적으로 제외)
+> - ✅ Organization 레포지토리 (포함됨)
+> - ❌ Private 레포지토리 (제외됨)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taekyeong2002&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taekyeong2002&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyeong2002&layout=compact&theme=radical&hide_border=true&hide=shell,html,css,perl&langs_count=6)
 
