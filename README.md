@@ -28,6 +28,13 @@
 
 ### 📊 GitHub 통계
 
+> **참고**: GitHub 통계는 본인의 모든 public 레포지토리 기여를 포함합니다.  
+> - ✅ 본인이 만든 레포지토리
+> - ✅ Fork한 레포지토리 (본인 계정으로 커밋한 경우)
+> - ✅ 다른 사람의 레포지토리에 기여한 커밋
+> - ❌ Organization 레포지토리 (기본적으로 제외)
+> - ❌ Private 레포지토리 (기본적으로 제외)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taekyeong2002&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyeong2002&layout=compact&theme=radical&hide_border=true)
@@ -44,6 +51,38 @@
 - 💬 백엔드 개발, API, 데이터베이스에 대해 물어보세요
 - 📫 연락처: [이메일 또는 소셜 미디어]
 - ⚡ 재미있는 사실: 복잡한 문제 해결과 성능 최적화를 좋아합니다
+
+### 🚀 주요 프로젝트
+
+#### 📌 Recipick
+- **설명**: 냉장고 속 재료로 만들 수 있는 요리를 AI가 추천해주는 웹 애플리케이션
+- **담당 역할**: API 연동
+  - Google Gemini API 연동 (AI 레시피 생성)
+  - Naver Search API 연동 (블로그 레시피 검색)
+  - YouTube Data API 연동 (요리 영상 검색)
+  - API 프록시 및 에러 핸들링 구현
+- **기술 스택**: React, JavaScript, Google Gemini API, Naver Search API, YouTube Data API
+- **레포지토리**: [Recipick](https://github.com/Neafrun/Recipick)
+
+#### 📌 TypeScript-Project
+- **설명**: TypeScript를 활용한 풀스택 웹 애플리케이션
+- **담당 역할**: 각종 기능 추가 및 구현
+  - 사용자 인증 및 권한 관리 기능
+  - 데이터 검증 및 에러 핸들링 로직
+  - API 엔드포인트 개발 및 기존 기능 개선
+  - 타입 안정성을 고려한 기능 구현
+- **기술 스택**: TypeScript, Node.js, Express
+- **레포지토리**: [TypeScript-Project](https://github.com/Neafrun/TypeScript-Project)
+
+#### 📌 DaelimTeamProjectBackend3-1
+- **설명**: 정부(중앙·지자체) 복지 API를 통합하여 사용자 조건에 맞는 복지 서비스를 추천하는 웹 서비스
+- **담당 역할**: 백엔드 개발
+  - 외부 복지 API 연동 (중앙/지자체)
+  - 데이터 동기화 배치 작업 구현
+  - 복지 서비스 검색 및 상세 조회 기능
+  - 다양한 API 형식의 표준화 매핑 로직 개발
+- **기술 스택**: Spring Boot, Java, MySQL
+- **레포지토리**: [DaelimTeamProjectBackend3-1](https://github.com/Neafrun/DaelimTeamProjectBackend3-1)
 
 ### 📈 기여 그래프
 
