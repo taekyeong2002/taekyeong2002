@@ -42,7 +42,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taekyeong2002&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyeong2002&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taekyeong2002&layout=compact&theme=radical&hide_border=true&hide=shell,html,css&langs_count=6)
 
 ### 🔥 GitHub 연속 기여
 
