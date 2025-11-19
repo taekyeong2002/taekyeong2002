@@ -1,5 +1,10 @@
 ## 👋 안녕하세요, 송태경 입니다 
 
+### 📞 연락처
+
+- 📧 이메일: [taekyeong2002@naver.com](mailto:taekyeong2002@naver.com)
+- 📱 전화: 010-3187-5482
+
 <!--
 **taekyeong2002/taekyeong2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -49,7 +54,6 @@
 - 🌱 클라우드 아키텍처와 마이크로서비스 학습 중
 - 👯 오픈소스 프로젝트 협업을 찾고 있습니다
 - 💬 백엔드 개발, API, 데이터베이스에 대해 물어보세요
-- 📫 연락처: taekyeong2002@naver.com | 010-3187-5482
 - ⚡ 재미있는 사실: 복잡한 문제 해결과 성능 최적화를 좋아합니다
 
 ### 🚀 주요 프로젝트
@@ -87,13 +91,6 @@
 ### 📈 기여 그래프
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taekyeong2002&theme=redical&hide_border=true)
-
----
-
-### 📞 연락처
-
-- 📧 이메일: [taekyeong2002@naver.com](mailto:taekyeong2002@naver.com)
-- 📱 전화: 010-3187-5482
 
 ---
 
